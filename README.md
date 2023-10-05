@@ -1,1 +1,3 @@
 # CTU-13
+
+Here, we are going to work with the [CTU-13](https://www.stratosphereips.org/datasets-ctu13) dataset. This dataset is a collection of botnet traffic that was captured at the CTU University, Czech Republic, in 2011. The dataset contains a large number of botnet traffic, which is mixed with the normal traffic and background traffic. It contains 13 different botnet samples. We have attempted to make a classification model to identify these botnets. The original dataset can be found in many places such as Kaggle, stratosphereips, etc. since it is available publically. This project will help to come up with a machine learning algorithm that detects potential malware in the network traffic that might harm one's computer and cause sites/data to crash.
